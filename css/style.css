@@ -1,0 +1,63 @@
+.blue {
+    background-color: #0a193d;
+}
+
+.dustywhite {
+    color: #6a7080;
+}
+
+.orange, .orange:hover {
+    background-color: #fc0254;
+}
+
+.orangetxt {
+    color: #fc0254;
+}
+
+.btn-2bg, .btn-2bg:hover {
+    background-color: #383b70;
+}
+
+.dustyblue {
+    background-color: #1c294a;
+    padding: 70px 70px 50px 125px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.blue-img {
+    background-image: url(https://preview.colorlib.com/theme/solmusic/img/how-to-bg.jpg.webp);
+    background-repeat: no-repeat;
+    background-size: 120%;
+    background-position: center;
+}
+
+h1 {
+    font-size: 65px;
+}
+
+.bigsize {
+    font-size: 50px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.icon {
+    position: relative;
+    width: 57px;
+    height: 57px;
+    border-radius: 50%;
+    background: #fc0254;
+}
+
+.icon img {
+    position: absolute;
+    left: 35px;
+    top: 15px
+}
+
+.row {
+    flex-wrap: wrap;
+}
